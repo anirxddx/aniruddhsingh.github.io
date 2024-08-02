@@ -1173,10 +1173,10 @@ pre code {
     height: 4px;
     background-image: linear-gradient(
       to right,
-      rgb(255, 255, 255) 0%,
-      rgb(244, 244, 125) 20%,
-      rgb(238, 238, 36) 50%,
-      #96b9dc 100%
+      rgb(76, 107, 185) 0%,
+      rgb(212, 220, 223) 20%,
+      rgb(188, 194, 200) 50%,
+      #6381d3 100%
     );
     margin-top: 5px;
     opacity: 50%;
